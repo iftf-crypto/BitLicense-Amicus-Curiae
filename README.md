@@ -21,7 +21,7 @@ We need to gather the following:
 ## How to Contribute
 See GitHub's documentation on [Using Pull Requests](https://help.github.com/articles/using-pull-requests).
 
-Basically, fork our repository, make changes, and then issue pull requests to us.
+Basically, fork our repository, make changes to [brief.md](https://github.com/ace-ny/BitLicense-Amicus-Curiae/blob/master/brief.md), and then issue pull requests to us.
 
 ## Sample Brief
 We've prepared [a sample of an Amicus Curiae Brief in markdown format](https://github.com/ace-ny/BitLicense-Amicus-Curiae/blob/master/sample%20brief.md) based on [a real-world brief](http://www.afer.org/wp-content/uploads/2013/02/12-144-bsac-KluweAyanbadejo.pdf).
