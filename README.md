@@ -13,6 +13,7 @@ We need source material to provide to the attorney, and that's where you come in
 
 ## What We Need
 We need to gather the following:
+
 1. A good list of references to draw from to make one or more structured arguments.
 2. A list of the ways that the BitLicense regulations, as proposed, would detrimentally effect small businesses and entrepreneurs.
 3. A list of the ways that the BitLicense regulations could be modified to address the concerns brought up in #2.
